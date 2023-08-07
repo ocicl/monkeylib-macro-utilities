@@ -2,9 +2,8 @@
 
 A few utilities for writing macros.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/gigamonkey/monkeylib-macro-utilities.git   |
-| commit  | c48e2b4  |
-| systems | monkeylib-macro-utilities |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------------------|
+| source  | git:https://github.com/gigamonkey/monkeylib-macro-utilities.git |
+| commit  | c48e2b4                                                         |
+| systems | com.gigamonkeys.macro-utilities                                 |
+|---------+-----------------------------------------------------------------|
